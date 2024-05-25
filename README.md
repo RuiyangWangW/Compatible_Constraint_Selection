@@ -1,6 +1,6 @@
 # Compatible Constraint Selection
 
-This repository contains the code and documentation for the "Algorithms for Finding Compatible Constraints in Receding-Horizon Control of Dynamical Systems" paper, presented at the ACC 2024 conference.
+This repository contains the code and documentation for the ["Algorithms for Finding Compatible Constraints in Receding-Horizon Control of Dynamical Systems"](https://arxiv.org/abs/2305.11010) paper, presented at the ACC 2024 conference.
 
 ## Authors
 - Hardik Parwana
